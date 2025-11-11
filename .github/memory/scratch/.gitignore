@@ -1,0 +1,5 @@
+# Ignore all files in scratch/ directory
+# This keeps working notes ephemeral and prevents accidental commits
+
+*
+!.gitignore
